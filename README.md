@@ -10,9 +10,9 @@ The internship is divided into 3 levels:
 
 | Level | Description                        | Tasks Completed |
 |-------|------------------------------------|-----------------|
-| 1     | Basic Python Programming           | ✅ All 5         |
-| 2     | Intermediate Projects              | ✅ All 5         |
-| 3     | Advanced Projects (Stipend eligible) | ✅ All 3       |
+| 1     | Basic Python Programming           | ✅ All 5        |
+| 2     | Intermediate Projects              | ✅ All 5        |
+| 3     | Advanced Projects                  | ✅ All 3        |
 
 ---
 
