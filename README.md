@@ -24,7 +24,7 @@ The internship is divided into 3 levels:
 pip install matplotlib seaborn requests beautifulsoup4 pandas
 ```
 ## 🙌 Credits
-#J Joshua Haniel
-#Python Developer Intern
+J Joshua Haniel
+Python Developer Intern
 [LinkedIn Profile](http://www.linkedin.com/in/joshuahanielgts)
 [GitHub Profile](https://github.com/joshuahanielgts/)
